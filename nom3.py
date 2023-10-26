@@ -28,6 +28,22 @@ def step_ai(kucha):
     return rnd.randint(1, 3)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 def check_to_win(sbkt, kucha):
     if kucha == 1:
         print(sbkt, "Win!")
