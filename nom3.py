@@ -47,4 +47,5 @@ while 1:
     print("Ход  компютера: ", ai_hod)
     check_to_win("Конмпютер", col_kam)
 
-#ddd
+#dddsdfssdfsfd
+#gggg
