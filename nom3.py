@@ -48,4 +48,4 @@ while 1:
     check_to_win("Конмпютер", col_kam)
 
 #dddsdfssdfs
-#g
+#gsgit
